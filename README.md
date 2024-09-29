@@ -6,11 +6,11 @@ This project has been a massive leap for me in 3D game development, pushing my s
 
 Here are some of the highlights:
 - 🔥 First-Person Shooting: Engage in fast-paced combat with a fully functional AR gun system (because who doesn't love a good shootout with the undead?).
-🧟‍♂️ Wave-Based Enemy Spawning: Enemies just keep coming, one wave after another, because apparently, zombies don’t need breaks. 
-🧠 Advanced Enemy AI: Enemies dynamically react to your presence, coordinating attacks like they attended a strategy meeting before dinner.
-💥 Health & Damage System: Tactical gameplay with health points for both players and enemies—because it's no fun if the zombies just go down after one hit, right?
-🎯 Gun Mechanics: Automatic bullet effects and a reload system—nothing feels better than a well-timed reload when you're surrounded!
-💀 Kill Counter & Health Widget: For those of us who need to keep score and brag about how many zombies we’ve eliminated!
+- 🧟‍♂️ Wave-Based Enemy Spawning: Enemies just keep coming, one wave after another, because apparently, zombies don’t need breaks. 
+- 🧠 Advanced Enemy AI: Enemies dynamically react to your presence, coordinating attacks like they attended a strategy meeting before dinner.
+- 💥 Health & Damage System: Tactical gameplay with health points for both players and enemies—because it's no fun if the zombies just go down after one hit, right?
+- 🎯 Gun Mechanics: Automatic bullet effects and a reload system—nothing feels better than a well-timed reload when you're surrounded!
+- 💀 Kill Counter & Health Widget: For those of us who need to keep score and brag about how many zombies we’ve eliminated!
 
 Key Learnings:
 - 🕹️ Mastered core gameplay mechanics with Blueprints for character movement and interactions.
