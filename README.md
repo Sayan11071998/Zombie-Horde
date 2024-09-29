@@ -22,3 +22,7 @@ Key Learnings:
 It’s been a wild, sleepless, frustrating, and incredibly fulfilling journey. I’ve learned so much from this project, and I can’t wait to apply these skills to even bigger challenges.
 
 ![Zombie_Survival_01](https://github.com/user-attachments/assets/94abf1d6-8857-4fb0-a686-305c7042994b)
+
+![Zombie_Survival_02](https://github.com/user-attachments/assets/4a42c922-c9fa-42eb-9b32-e5ccff2df21f)
+
+![Zombie_Survival_03](https://github.com/user-attachments/assets/f6111f79-ee38-47d7-8f5f-178cd8232035)
