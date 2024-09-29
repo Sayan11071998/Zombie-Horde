@@ -1,25 +1,24 @@
-🚀 Project Completed: Zombie Horde 🚀
+🚀 Zombie Horde: Survival Shooter Game 🚀
+Welcome to Zombie Survival, a fast-paced first-person shooter where you're up against relentless waves of undead! This project has been a massive leap forward in my 3D game development journey, helping me refine my skills in Unreal Engine 5, Blueprints, AI systems, and core gameplay mechanics.
 
-Remember when I thought creating a basic shooter game would be a "quick" weekend project? Yeah, neither do I. 😅 But after countless late-night coding sessions, debugging enemy AI that sometimes seemed smarter than me, and wrestling with Unreal Engine's Blueprints, I’m thrilled to finally share Zombie Survival with you!
+🎮 Game Features
+- First-Person Shooting: Engage in intense combat with a fully-functional AR gun system—get ready for non-stop action against the undead!
+Wave-Based Enemy Spawning: Zombies keep coming in increasingly challenging waves. No rest for the living!
+Advanced Enemy AI: Zombies dynamically react to your presence and coordinate attacks to keep the pressure on.
+Health & Damage System: Tactical gameplay where both you and the zombies have health points—prepare for strategic combat.
+Gun Mechanics: Automatic bullet effects with a reload system that keeps you on your toes. No ammo left? Good luck!
+Kill Counter & Health Widget: Keep track of your progress and stay updated on your health while you battle through the horde.
+Sprint & Jump Mechanics: Advanced player movement to evade danger when the going gets tough.
+🧠 Key Learnings
+Mastered core gameplay mechanics using Blueprints, from character movement to interaction systems.
+Implemented smooth animations for both player and enemy actions, ensuring fluid and immersive combat.
+Developed an advanced AI system for the enemies, making sure they remain challenging and unpredictable.
+Created a gun-firing system with automatic bullet effects and reloading for a more immersive combat experience.
+Designed sprint and jump mechanics, adding depth and mobility to player controls.
+🚀 What's Next?
+This project has been an incredible learning experience. It pushed me to master complex systems like enemy AI, player mechanics, and game flow. I’m excited to apply these skills to bigger and more ambitious projects in the future!
 
-This project has been a massive leap for me in 3D game development, pushing my skills in Blueprints, AI systems, and overall gameplay mechanics to the next level.
 
-Here are some of the highlights:
-- 🔥 First-Person Shooting: Engage in fast-paced combat with a fully functional AR gun system (because who doesn't love a good shootout with the undead?).
-- 🧟‍♂️ Wave-Based Enemy Spawning: Enemies just keep coming, one wave after another, because apparently, zombies don’t need breaks. 
-- 🧠 Advanced Enemy AI: Enemies dynamically react to your presence, coordinating attacks like they attended a strategy meeting before dinner.
-- 💥 Health & Damage System: Tactical gameplay with health points for both players and enemies—because it's no fun if the zombies just go down after one hit, right?
-- 🎯 Gun Mechanics: Automatic bullet effects and a reload system—nothing feels better than a well-timed reload when you're surrounded!
-- 💀 Kill Counter & Health Widget: For those of us who need to keep score and brag about how many zombies we’ve eliminated!
-
-Key Learnings:
-- 🕹️ Mastered core gameplay mechanics with Blueprints for character movement and interactions.
-- 🎥 Implemented smooth animations for both player and enemy actions (because even zombies deserve smooth movement).
-- 🧠 Developed an advanced AI system for enemy behavior, making sure those zombies keep me on my toes.
-- 🔫 Built a gun-firing system with automatic bullet effects and reloading (no bullets left? Good luck!).
-- 🏃‍♂️ Created sprint and jump mechanics for advanced player movement—because sometimes, you just need to run faster than the zombies.
-
-It’s been a wild, sleepless, frustrating, and incredibly fulfilling journey. I’ve learned so much from this project, and I can’t wait to apply these skills to even bigger challenges.
 
 ![Zombie_Survival_01](https://github.com/user-attachments/assets/94abf1d6-8857-4fb0-a686-305c7042994b)
 
