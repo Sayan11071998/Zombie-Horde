@@ -20,3 +20,5 @@ Key Learnings:
 - 🏃‍♂️ Created sprint and jump mechanics for advanced player movement—because sometimes, you just need to run faster than the zombies.
 
 It’s been a wild, sleepless, frustrating, and incredibly fulfilling journey. I’ve learned so much from this project, and I can’t wait to apply these skills to even bigger challenges.
+
+![Zombie_Survival_01](https://github.com/user-attachments/assets/94abf1d6-8857-4fb0-a686-305c7042994b)
