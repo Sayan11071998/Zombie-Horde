@@ -1,2 +1,22 @@
-# Zombie-Horde
-Zombie Horde (Unreal Engine)
+🚀 Project Completed: Zombie Horde 🚀
+
+Remember when I thought creating a basic shooter game would be a "quick" weekend project? Yeah, neither do I. 😅 But after countless late-night coding sessions, debugging enemy AI that sometimes seemed smarter than me, and wrestling with Unreal Engine's Blueprints, I’m thrilled to finally share Zombie Survival with you!
+
+This project has been a massive leap for me in 3D game development, pushing my skills in Blueprints, AI systems, and overall gameplay mechanics to the next level.
+
+Here are some of the highlights:
+🔥 First-Person Shooting: Engage in fast-paced combat with a fully functional AR gun system (because who doesn't love a good shootout with the undead?).
+🧟‍♂️ Wave-Based Enemy Spawning: Enemies just keep coming, one wave after another, because apparently, zombies don’t need breaks. 
+🧠 Advanced Enemy AI: Enemies dynamically react to your presence, coordinating attacks like they attended a strategy meeting before dinner.
+💥 Health & Damage System: Tactical gameplay with health points for both players and enemies—because it's no fun if the zombies just go down after one hit, right?
+🎯 Gun Mechanics: Automatic bullet effects and a reload system—nothing feels better than a well-timed reload when you're surrounded!
+💀 Kill Counter & Health Widget: For those of us who need to keep score and brag about how many zombies we’ve eliminated!
+
+Key Learnings:
+- 🕹️ Mastered core gameplay mechanics with Blueprints for character movement and interactions.
+- 🎥 Implemented smooth animations for both player and enemy actions (because even zombies deserve smooth movement).
+- 🧠 Developed an advanced AI system for enemy behavior, making sure those zombies keep me on my toes.
+- 🔫 Built a gun-firing system with automatic bullet effects and reloading (no bullets left? Good luck!).
+- 🏃‍♂️ Created sprint and jump mechanics for advanced player movement—because sometimes, you just need to run faster than the zombies.
+
+It’s been a wild, sleepless, frustrating, and incredibly fulfilling journey. I’ve learned so much from this project, and I can’t wait to apply these skills to even bigger challenges.
