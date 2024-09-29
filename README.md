@@ -5,7 +5,7 @@ Remember when I thought creating a basic shooter game would be a "quick" weekend
 This project has been a massive leap for me in 3D game development, pushing my skills in Blueprints, AI systems, and overall gameplay mechanics to the next level.
 
 Here are some of the highlights:
-🔥 First-Person Shooting: Engage in fast-paced combat with a fully functional AR gun system (because who doesn't love a good shootout with the undead?).
+- 🔥 First-Person Shooting: Engage in fast-paced combat with a fully functional AR gun system (because who doesn't love a good shootout with the undead?).
 🧟‍♂️ Wave-Based Enemy Spawning: Enemies just keep coming, one wave after another, because apparently, zombies don’t need breaks. 
 🧠 Advanced Enemy AI: Enemies dynamically react to your presence, coordinating attacks like they attended a strategy meeting before dinner.
 💥 Health & Damage System: Tactical gameplay with health points for both players and enemies—because it's no fun if the zombies just go down after one hit, right?
