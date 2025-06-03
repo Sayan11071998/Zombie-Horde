@@ -1,28 +1,51 @@
-# ***🚀 Zombie Horde: Survival Shooter Game 🧟‍♂️💥***
+# 🚀 Zombie Horde: Survival Shooter Game 🧟‍♂️💥
 
-Welcome to Zombie Survival, a fast-paced first-person shooter where you're up against relentless waves of undead! This project has been a huge leap forward in my 3D game development journey, helping me refine my skills in Unreal Engine 5, Blueprints, AI systems, and core gameplay mechanics.
+Welcome to **Zombie Survival**, a fast-paced first-person shooter where you're up against relentless waves of the undead!  
+This project marks a significant milestone in my 3D game development journey, helping me refine skills in **Unreal Engine 5**, **Blueprints**, **AI systems**, and **core gameplay mechanics**.
 
-### **🎮 Game Features**
-- **🔫 First-Person Shooting:** Engage in intense combat with a fully-functional AR gun system—get ready for non-stop action against the undead!
-- **🌊 Wave-Based Enemy Spawning:** Zombies keep coming in increasingly challenging waves. No rest for the living!
-- **🧠 Advanced Enemy AI:** Zombies dynamically react to your presence and coordinate attacks to keep the pressure on.
-- **❤️ Health & Damage System:** Tactical gameplay where both you and the zombies have health points—prepare for strategic combat.
-- **💥 Gun Mechanics:** Automatic bullet effects with a reload system that keeps you on your toes. No ammo left? Good luck!
-- **🔢 Kill Counter & Health Widget:** Keep track of your progress and stay updated on your health while you battle through the horde.
-- **🏃‍♂️ Sprint & Jump Mechanics:** Advanced player movement to evade danger when the going gets tough.
+---
 
-### **🧠 Key Learnings**
-- Mastered 🎮 core gameplay mechanics using Blueprints, from character movement to interaction systems.
-- Implemented 🎥 smooth animations for both player and enemy actions, ensuring fluid and immersive combat.
-- Developed an 🧠 advanced AI system for the enemies, making sure they remain challenging and unpredictable.
-- Created a 🔫 gun-firing system with automatic bullet effects and reloading for a more immersive combat experience.
-- Designed 🏃‍♂️ sprint and jump mechanics, adding depth and mobility to player controls.
+## Game Features
 
-### **🚀 What's Next?**
+- **First-Person Shooting**  
+  Engage in intense combat with a fully-functional AR gun system—expect non-stop action against the undead.
+
+- **Wave-Based Enemy Spawning**  
+  Zombies spawn in increasingly challenging waves. The pressure never lets up.
+
+- **Advanced Enemy AI**  
+  Enemies dynamically respond to your actions and coordinate their attacks to keep the heat on.
+
+- **Health & Damage System**  
+  Tactical combat with health points for both player and enemies.
+
+- **Gun Mechanics**  
+  Includes automatic bullet effects and a reload system. Timing your reloads is crucial for survival.
+
+- **Kill Counter & Health Widget**  
+  Keep track of how many zombies you’ve taken down and monitor your health in real time.
+
+- **Sprint & Jump Mechanics**  
+  Enhanced player movement lets you sprint and jump to dodge threats and explore the map.
+
+---
+
+## Key Learnings
+
+- Mastered core gameplay mechanics using Blueprints, from player movement to interaction systems.
+- Implemented smooth animations for both player and enemy actions, enhancing combat immersion.
+- Developed an advanced AI system to create dynamic and challenging enemies.
+- Built a realistic gun-firing system with automatic bullets and reloading.
+- Designed sprint and jump mechanics to add depth to movement and gameplay.
+
+---
+
+## What's Next?
+
 This project has been an incredible learning experience. It pushed me to master complex systems like enemy AI, player mechanics, and game flow. I’m excited to apply these skills to bigger and more ambitious projects in the future!
 
-
-
+[![Watch the video](https://img.youtube.com/vi/JPOtv7VLZIU/maxresdefault.jpg)](https://youtu.be/JPOtv7VLZIU)
+### [Gameplay Video](https://youtu.be/JPOtv7VLZIU)
 
 ![Zombie_Survival_01](https://github.com/user-attachments/assets/94abf1d6-8857-4fb0-a686-305c7042994b)
 
